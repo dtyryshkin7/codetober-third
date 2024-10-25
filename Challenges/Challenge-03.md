@@ -14,7 +14,7 @@ To achieve this, the crew must refactor their monolithic Terraform configuration
 - Start with defining a VM module by reusing [VM module example](../files/modules/vm/)
 - Refactor your Terraform configurations to use the module.
 - Define VNET module on your own or use the [example](../files/modules/vnet/)
-- ***HINT*** When using VNET module, Subnet ID should be defined as an output variable consumed by VM NIC. You also might run into a state inconsistency issue when using VNET module, that can be resolved by destroying all resources. 
+- ***HINT*** When using VNET module, Subnet ID should be defined as an output variable consumed by VM NIC. You also might run into a state inconsistency issue when using VNET module, that **can be resolved by placing all resources in a different resource group.**
 
 ## Success Criteria
 
