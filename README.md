@@ -10,18 +10,16 @@ In the third and the last episode of Codetober the Quantum Seeker starship conti
 
 By the end of this workshop, participants will be able to:
 
-- Identify and remediate configuration drifts using Terraform.
 - Understand the benefit of remote Terraform state management and integration of Terraform with VCS.
 - Design scalable Terraform configurations leveraging reusable modules.
 
 ## Challenges
-- Challenge 1: **[The Great Cosmic Drift](Challenges/Challenge-01.md)**
-   - Rebuilding the setup to withstand the storm.
-   - ***TO-DO: Break down to two?***
+- Challenge 1: **[Consolidate and Stabilizie](Challenges/Challenge-01.md)**
+   - Consolidating fragmented configurations.
 - Challenge 2: **[Galactic Terraform Cloud](Challenges/Challenge-02.md)**
-   - Establish a centralized management platform for IaC.
+   - Establishing a centralized management platform for IaC.
 - Challenge 3: **[Modularization for Future Missions](Challenges/Challenge-03.md)**
-   - Refactor monolith code into reusable modules.
+   - Refactoring monolith code into reusable modules.
 
 ## Contributors
 - Dmitrii Tyryshkin
