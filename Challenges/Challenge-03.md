@@ -22,7 +22,7 @@ To achieve this, the crew must refactor their monolithic Terraform configuration
 
 ## If time permits
 
-- You have deployed a multi-regional setup (VM+VNET) using TF modules
+- Each team member has deployed a multi-regional setup (VM+VNET combination deployed to two different Azure regions at the same time) using TF modules
 
 ## Resources
 
