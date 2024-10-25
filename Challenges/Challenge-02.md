@@ -18,6 +18,8 @@ The crew realizes their local Terraform setup is vulnerable to cosmic anomalies.
 ## HINT
 
 - Dont forget env variables! They are shared in Teams.
+- Dont forget to modify provider.tf by adding Terraform Cloud block (find in Teams)
+
 
 ##  Resources
 
