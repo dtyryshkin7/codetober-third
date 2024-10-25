@@ -15,6 +15,10 @@ The crew realizes their local Terraform setup is vulnerable to cosmic anomalies.
 - Local terminal of each team member is connected to the HCP Terraform and uses remote state
 - You are not able to apply infrastructure changes via console
 
+## HINT
+
+- Dont forget env variables! They are shared in Teams.
+
 ##  Resources
 
 - [HCP Terraform Portal (dont use corp accounts!)](app.terraform.io)
