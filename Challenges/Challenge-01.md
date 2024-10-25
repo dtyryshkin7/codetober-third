@@ -12,8 +12,8 @@ Your team has been tasked with a critical mission: consolidate all Terraform con
 
 ## Success Criteria
 
-- You repo has a folder containing as many .tf files as you have team members. 
-- The .tf files contain infrastructure configuration (RG,VNET,VM) belonging to respective member
+- Your repo has a folder containing as many .tf files as you have team members. 
+- Each .tf contains all infrastructure configuration (RG+VNET+VM) belonging to respective member
 - provider.tf defined only once.
 - Terraform is initialized in your group folder
 
