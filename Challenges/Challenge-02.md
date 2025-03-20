@@ -1,6 +1,6 @@
 # Challenge 02 - Galactic Terraform Cloud
 
-[< Previous Challenge](Challenge-01.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
+[< Previous Challenge](Challenge-01.md) - [Home](../README.md)
 
 ## Introduction
 
@@ -23,11 +23,11 @@ The crew realizes their local Terraform setup is vulnerable to cosmic anomalies.
 
 ##  Resources
 
-- [HCP Terraform Portal (dont use corp accounts!)](app.terraform.io)
+- [HCP Terraform Portal (dont use corp accounts!)](https://app.terraform.io)
 - [Connect HCP Terraform to GitHub](https://developer.hashicorp.com/terraform/cloud-docs/vcs/github-app#using-github-repositories)
 - [What are HCP Terraform workspaces](https://developer.hashicorp.com/terraform/cloud-docs/workspaces)
 - [Create environmental variables in HCP Terraform](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-create-variable-set)
 - [Login to HCP Terraform via CLI](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-login)
 - [Migrate state to HCP Terraform](https://developer.hashicorp.com/terraform/tutorials/cloud/cloud-migrate)
 
-[< Previous Challenge](Challenge-01.md) - [Home](../README.md) - [Next Challenge >](Challenge-03.md)
+[< Previous Challenge](Challenge-01.md) - [Home](../README.md) 
